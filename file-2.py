@@ -3,6 +3,6 @@ print("this is file 2 in new repository")
 for _ in range(5):
     print("Loop iteration:", _)
 
-names = ["Alice", "Bob", "Charlie", "David"]
+names = ["Alice", "Bob", "Charlie", "David","Hamna"]
 for name in names:
     print("Hello,", name)
